@@ -1,0 +1,8 @@
+/.venv
+/a.dot
+/a.ipynb
+/b.dot
+/out.parquet
+/out.tmp
+/test
+/test.parquet
